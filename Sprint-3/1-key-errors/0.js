@@ -19,4 +19,3 @@ capitalise("matthaus enjoys food")
 function capitalise(str) {
   return '${str[0].toUpperCase()}${str.slice(1)}';
 }
-console.log(return);
