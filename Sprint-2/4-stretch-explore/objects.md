@@ -19,4 +19,4 @@ What does `console` store?
 Answer: this stores all the functions that the console has.
 
 What does the syntax `console.log` or `console.assert` mean? In particular, what does the `.` mean?
-Answer: 'console' is an object and 'log/assert' is properties of log. the `.` is going to look-up which property is stored in the object
+Answer: 'console' is an object, '.' is a property accessor and 'log/assert' are properties of 'console'. the `.` is going to look-up which property is stored in the object
