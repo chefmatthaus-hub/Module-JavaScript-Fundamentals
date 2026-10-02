@@ -12,7 +12,13 @@ console.log(timeRemainingHHMMSS);
 // For the piece of code above, read the code and then answer the following questions
 
 // a) How many variable declarations are there in this program?
-// i) There are 5 variable declerations. Lines 1, 3, 4, 6, 7 and 9
+// i) There are 6 variable declarations. 
+// Lines 1 (movieLength), 
+// Line 3(remainingSeconds), 
+// Line 4(totalMinutes), 
+// Line 6(remainingMinutes,
+// Line 7(totalHours) 
+// Line 9(timeRemainingHHMMSS)
 
 // b) How many function calls are there?
 // ii) There is only one function call. Line 10
